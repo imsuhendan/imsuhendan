@@ -1,5 +1,5 @@
 # Sühendan İbrahimbaş
-<a href="https://www.github.com/iamsuhendan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
+
 <a href="mailto:Sühendan İbrahimbaş@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
 <a href="https://twitter.com/ben_suhendan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
 <a href="https://www.youtube.com/c/ben.suhendan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Badge" height="25"></a>&nbsp;
