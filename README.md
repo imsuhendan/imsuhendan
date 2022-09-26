@@ -1,9 +1,6 @@
 <h1 align="center">Who Am I</h1>
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sühendan İbrahimbaş")
 
-Reference-style: 
-![alt text][
+
 <h3 align="center">I'm 12 years old</h3>
 
 - ♪My Name İs : **Sühendan İbrahimbaş**
