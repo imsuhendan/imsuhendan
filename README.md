@@ -1,23 +1,39 @@
-# Sühendan İbrahimbaş
+<h1 align="center">Who Am I</h1>
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sühendan İbrahimbaş")
 
-<a href="mailto:Sühendan İbrahimbaş@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
-<a href="https://twitter.com/ben_suhendan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
-<a href="https://www.youtube.com/c/ben.suhendan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Badge" height="25"></a>&nbsp;
-<a href="https://www.instagram.com/ben.suhendan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
+Reference-style: 
+![alt text][
+<h3 align="center">I'm 12 years old</h3>
 
-## Who Am I
-I'm Turkish and 12 years old!
+- ♪My Name İs : **Sühendan İbrahimbaş**
 
-## About me
-🔭&nbsp;I’m currently working on **Teach with my brother 🙃**
-<br/>🎓&nbsp;Graduated in **I go to Middle School!**
-<br/>🌱&nbsp;Learning about **Game Developer 🙃**
-<br/>💡&nbsp;I'm interested about **Game and Movie!**
-<br/>⚡&nbsp;Fun fact **Everything!**
-<br/>📫&nbsp;Reach me [ibrahimassuhendan@gmail.com](mailto:ibrahimassuhendan@gmail.com)
+- ♪I teach **c# and c++**
 
-## Tech Stack
-<img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c++ Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Csharp-05122A?style=flat&logo=csharp" alt="csharp Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity" alt="unity Badge" height="25">&nbsp;
+- ♪My Brother : **ssibrahimas**
 
+- ♪I teach **with my brother**
+
+- ♪I'm **12 years old**
+
+- ♪I go to **Middle School**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsuhendan&show_icons=true&locale=en&layout=compact" alt="imsuhendan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsuhendan&show_icons=true&locale=en" alt="imsuhendan" /></p>
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sühendan İbrahimbaş")
+
+Reference-style: 
+![alt text]
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
