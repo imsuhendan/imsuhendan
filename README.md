@@ -30,10 +30,6 @@ Reference-style:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsuhendan&show_icons=true&locale=en" alt="imsuhendan" /></p>
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sühendan İbrahimbaş")
 
-Reference-style: 
-![alt text]
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+
